@@ -1,0 +1,105 @@
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.deps.json
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.runtimeconfig.json
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.runtimeconfig.dev.json
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.dll
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.pdb
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.Views.dll
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\bin\Release\netcoreapp2.1\Store.Views.pdb
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorAssemblyInfo.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorAssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.TagHelpers.input.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.TagHelpers.output.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorCoreGenerate.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.Views.pdb
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.dll
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.pdb
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csproj.CopyComplete
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csprojAssemblyReference.cache
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\NLog.config
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.deps.json
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.runtimeconfig.json
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.runtimeconfig.dev.json
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.dll
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.pdb
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.Views.dll
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\bin\Release\netcoreapp2.1\Store.Views.pdb
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorAssemblyInfo.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorAssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.TagHelpers.input.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.TagHelpers.output.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorCoreGenerate.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cache
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cs
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.Views.pdb
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.dll
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.pdb
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csproj.CopyComplete
+C:\Users\Владимир Катков\source\repos\12 (Complete Version)\BaseStore\Store\obj\Release\netcoreapp2.1\Store.csprojAssemblyReference.cache

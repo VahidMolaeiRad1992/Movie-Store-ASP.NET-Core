@@ -1,0 +1,12 @@
+2019-01-14 01:16:43.5868 EDIT movie. Title:Blade Runner 2049
+2019-01-14 01:25:45.8715 ADD to cart movie. ID:1
+2019-01-14 01:26:09.5332 ADD to cart movie. ID:1
+2019-01-14 01:26:12.0827 ADD to cart movie. ID:3
+2019-01-14 01:26:32.9710 ADD to cart movie. ID:4
+2019-01-14 01:26:56.9456 Chekout Comlete. Order TOTAL: 275,00
+2019-01-14 01:30:52.9380 Authenticate successful: user@mail.ru 2
+2019-01-14 01:31:05.3721 LOG OUT successful
+2019-04-30 13:07:09.6322 ADD to cart movie. ID:1
+2019-04-30 13:07:15.5623 ADD to cart movie. ID:2
+2019-04-30 13:07:16.5748 ADD to cart movie. ID:3
+2019-04-30 13:07:17.6273 ADD to cart movie. ID:4
